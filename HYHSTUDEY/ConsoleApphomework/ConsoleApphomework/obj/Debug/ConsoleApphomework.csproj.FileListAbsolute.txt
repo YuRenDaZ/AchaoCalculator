@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\ConsoleApphomework\ConsoleApphomework\bin\Debug\ConsoleApphomework.exe.config
+C:\Users\admin\source\repos\ConsoleApphomework\ConsoleApphomework\bin\Debug\ConsoleApphomework.exe
+C:\Users\admin\source\repos\ConsoleApphomework\ConsoleApphomework\bin\Debug\ConsoleApphomework.pdb
+C:\Users\admin\source\repos\ConsoleApphomework\ConsoleApphomework\obj\Debug\ConsoleApphomework.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\ConsoleApphomework\ConsoleApphomework\obj\Debug\ConsoleApphomework.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ConsoleApphomework\ConsoleApphomework\obj\Debug\ConsoleApphomework.exe
+C:\Users\admin\source\repos\ConsoleApphomework\ConsoleApphomework\obj\Debug\ConsoleApphomework.pdb
