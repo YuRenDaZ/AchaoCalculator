@@ -1,0 +1,7 @@
+C:\Users\john\Desktop\AchaoCalculator-master\Calculator\201731082206\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\john\Desktop\AchaoCalculator-master\Calculator\201731082206\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\john\Desktop\AchaoCalculator-master\Calculator\201731082206\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\john\Desktop\AchaoCalculator-master\Calculator\201731082206\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\john\Desktop\AchaoCalculator-master\Calculator\201731082206\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+C:\Users\john\Desktop\AchaoCalculator-master\Calculator\201731082206\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\john\Desktop\AchaoCalculator-master\Calculator\201731082206\calculator\calculator\obj\Debug\calculator.pdb
