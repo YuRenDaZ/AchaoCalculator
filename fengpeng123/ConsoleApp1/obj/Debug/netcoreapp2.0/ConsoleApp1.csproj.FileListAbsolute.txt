@@ -1,0 +1,11 @@
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.deps.json
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.json
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.runtimeconfig.dev.json
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.dll
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\bin\Debug\netcoreapp2.0\ConsoleApp1.pdb
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csprojResolveAssemblyReference.cache
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfoInputs.cache
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.AssemblyInfo.cs
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.dll
+E:\AchaoCalculator\fengpeng123\ConsoleApp1\obj\Debug\netcoreapp2.0\ConsoleApp1.pdb
