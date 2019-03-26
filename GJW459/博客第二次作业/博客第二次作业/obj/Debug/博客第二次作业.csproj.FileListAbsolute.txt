@@ -1,0 +1,7 @@
+F:\github\GJW459\博客第二次作业\博客第二次作业\bin\Debug\博客第二次作业.exe.config
+F:\github\GJW459\博客第二次作业\博客第二次作业\bin\Debug\博客第二次作业.exe
+F:\github\GJW459\博客第二次作业\博客第二次作业\bin\Debug\博客第二次作业.pdb
+F:\github\GJW459\博客第二次作业\博客第二次作业\obj\Debug\博客第二次作业.csprojAssemblyReference.cache
+F:\github\GJW459\博客第二次作业\博客第二次作业\obj\Debug\博客第二次作业.csproj.CoreCompileInputs.cache
+F:\github\GJW459\博客第二次作业\博客第二次作业\obj\Debug\博客第二次作业.exe
+F:\github\GJW459\博客第二次作业\博客第二次作业\obj\Debug\博客第二次作业.pdb
