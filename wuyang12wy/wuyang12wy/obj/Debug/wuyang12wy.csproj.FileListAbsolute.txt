@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\wuyang12wy\wuyang12wy\bin\Debug\wuyang12wy.exe.config
+C:\Users\Administrator\source\repos\wuyang12wy\wuyang12wy\bin\Debug\wuyang12wy.exe
+C:\Users\Administrator\source\repos\wuyang12wy\wuyang12wy\bin\Debug\wuyang12wy.pdb
+C:\Users\Administrator\source\repos\wuyang12wy\wuyang12wy\obj\Debug\wuyang12wy.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\wuyang12wy\wuyang12wy\obj\Debug\wuyang12wy.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\wuyang12wy\wuyang12wy\obj\Debug\wuyang12wy.exe
+C:\Users\Administrator\source\repos\wuyang12wy\wuyang12wy\obj\Debug\wuyang12wy.pdb
