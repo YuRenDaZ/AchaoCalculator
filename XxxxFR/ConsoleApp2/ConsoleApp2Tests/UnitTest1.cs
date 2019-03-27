@@ -1,13 +1,12 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-namespace ConsoleApp2
+namespace ConsoleApp2Tests
 {
-    public class Program
+    [TestClass]
+    public class UnitTest1
     {
+        [TestMethod]
         public static void PC(int n)
         {
             Random ran = new Random();
@@ -17,9 +16,9 @@ namespace ConsoleApp2
             for (int i = 0; i < n; i++)
             {
                 int x = ran.Next(0, 6);
-                float  num1 = ran.Next(0, 100);
-                float  num2 = ran.Next(0, 100);
-                float  num3 = ran.Next(1, 100);
+                float num1 = ran.Next(0, 100);
+                float num2 = ran.Next(0, 100);
+                float num3 = ran.Next(1, 100);
                 switch (x)
                 {
                     case 0:
@@ -32,7 +31,7 @@ namespace ConsoleApp2
                         a = "+";
                         b = "-";
                         result = num1 + num2 - num3;
-                        if (result >0)
+                        if (result > 0)
                         {
                             Console.WriteLine(num1.ToString() + a + num2 + b + num3 + "=" + result);
                         }
@@ -52,7 +51,7 @@ namespace ConsoleApp2
                         a = "+";
                         b = "/";
                         result = num1 + num2 / num3;
-                        if (num2%num3==0)
+                        if (num2 % num3 == 0)
                         {
                             Console.WriteLine(num1.ToString() + a + num2 + b + num3 + "=" + result);
                         }
@@ -66,7 +65,7 @@ namespace ConsoleApp2
                         a = "-";
                         b = "*";
                         result = num1 - num2 * num3;
-                        if (result >0)
+                        if (result > 0)
                         {
                             Console.WriteLine(num1.ToString() + a + num2 + b + num3 + "=" + result);
                         }
@@ -80,7 +79,7 @@ namespace ConsoleApp2
                         a = "-";
                         b = "/";
                         result = num1 - num2 / num3;
-                        if (result>0&&num2 % num3 == 0)
+                        if (result > 0 && num2 % num3 == 0)
                         {
                             Console.WriteLine(num1.ToString() + a + num2 + b + num3 + "=" + result);
                         }
@@ -105,16 +104,14 @@ namespace ConsoleApp2
                         }
                         break;
                 }
-                
+
             }
         }
-        
-        static void Main(string[] args)
+        public void TestMethod1()
         {
             Console.WriteLine("请输入需要生成题目个数：");
-            int n = Convert .ToInt32 (Console.ReadLine ());
+            int n = Convert.ToInt32(Console.ReadLine());
             PC(n);
-            Console.ReadKey();
         }
     }
 }
