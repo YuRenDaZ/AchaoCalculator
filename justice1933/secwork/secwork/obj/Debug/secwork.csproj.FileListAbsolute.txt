@@ -1,0 +1,7 @@
+C:\Users\19334\Desktop\Calculator\justice1933\secwork\secwork\bin\Debug\secwork.exe.config
+C:\Users\19334\Desktop\Calculator\justice1933\secwork\secwork\bin\Debug\secwork.exe
+C:\Users\19334\Desktop\Calculator\justice1933\secwork\secwork\bin\Debug\secwork.pdb
+C:\Users\19334\Desktop\Calculator\justice1933\secwork\secwork\obj\Debug\secwork.csprojAssemblyReference.cache
+C:\Users\19334\Desktop\Calculator\justice1933\secwork\secwork\obj\Debug\secwork.csproj.CoreCompileInputs.cache
+C:\Users\19334\Desktop\Calculator\justice1933\secwork\secwork\obj\Debug\secwork.exe
+C:\Users\19334\Desktop\Calculator\justice1933\secwork\secwork\obj\Debug\secwork.pdb
