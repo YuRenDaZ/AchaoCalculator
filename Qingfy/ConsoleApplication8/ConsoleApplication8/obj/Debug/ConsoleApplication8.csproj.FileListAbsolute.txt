@@ -1,0 +1,6 @@
+E:\C#代码\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+E:\C#代码\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+E:\C#代码\ConsoleApplication8\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+E:\C#代码\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.csprojResolveAssemblyReference.cache
+E:\C#代码\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+E:\C#代码\ConsoleApplication8\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb
