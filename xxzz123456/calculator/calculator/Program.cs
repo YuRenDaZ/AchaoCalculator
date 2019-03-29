@@ -129,19 +129,19 @@ namespace calculator
                 op3 = adm.Next(4);
                 if (op1 == 3)
                 {
-                    b1 = adm.Next(20);
+                    b1 = adm.Next(1,20);
                     for (int h = 0; h < 100; h++)
                     {
-                        a1 = adm.Next(20) * b1;
+                        a1 = adm.Next(1,20) * b1;
                         if (a1 < 101) break;
                     }
                 }
                 if (op2 == 3)
                 {
-                    c1 = adm.Next(20);
+                    c1 = adm.Next(1,20);
                     for (int h = 0; h < 100; h++)
                     {
-                        b1 = adm.Next(20) * c1;
+                        b1 = adm.Next(1,20) * c1;
                         if (b1 < 101) break;
                     }
                 }
@@ -170,29 +170,29 @@ namespace calculator
                 op3 = adm.Next(4);
                 if (op3 == 3)
                 {
-                    d1 = adm.Next(20);
+                    d1 = adm.Next(1,20);
                     for (int h = 0; h < 100; h++)
                     {
-                        c1 = adm.Next(20) * d1;
+                        c1 = adm.Next(1,20) * d1;
                         if (c1 < 101) break;
                     }
                 }
 
                 if (op2 == 3)
                 {
-                    c1 = adm.Next(20);
+                    c1 = adm.Next(1,20);
                     for (int h = 0; h < 100; h++)
                     {
-                        b1 = adm.Next(20) * c1;
+                        b1 = adm.Next(1,20) * c1;
                         if (b1 < 101) break;
                     }
                 }
                 if (op1 == 3)
                 {
-                    b1 = adm.Next(20);
+                    b1 = adm.Next(1,20);
                     for (int h = 0; h < 100; h++)
                     {
-                        a1 = adm.Next(20) * b1;
+                        a1 = adm.Next(1,20) * b1;
                         if (a1 < 101) break;
                     }
                 }
