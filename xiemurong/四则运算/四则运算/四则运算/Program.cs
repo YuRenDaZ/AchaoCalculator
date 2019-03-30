@@ -4,8 +4,8 @@ namespace 四则运算
 {
     unsafe public class Program
     {
-        public static int result ;
-        public static int n ;
+        public static int result = -1;
+        public static int n;
         public static void Main(string[] args)
         {
             Console.WriteLine("请输入四则运算题目个数");
@@ -24,7 +24,7 @@ namespace 四则运算
         }
         public static void test(int n)
         {
-            int i, a, b, c,op, op1;
+            int i, a, b, c, op, op1;
             int* a1 = &a;
             int* b1 = &b;
             Random ran = new Random();
@@ -35,11 +35,24 @@ namespace 四则运算
                 c = ran.Next(100) + 1;
                 op = ran.Next(4);
                 op1 = ran.Next(4);
-                if(op1==3)
+                if ((op == 0 || op == 1 || op == 2) && (op1 == 3))
                 {
                     result = alg(&a, op, alg(&b, op1, c));
                 }
-                if ((op == 0 || op == 1) && (op1 == 2))
+                else if (op == 3 && op1 == 3)
+                {
+                    int temp = b * c;
+                    if (temp < 100)
+                    {
+                        result = alg(&a, op, temp);
+                    }
+                    else
+                    {
+                        i--;
+                        continue;
+                    }
+                }
+                else if ((op == 0 || op == 1) && (op1 == 2))
                 {
                     result = alg(&a, op, alg(&b, op1, c));
                 }
@@ -75,7 +88,7 @@ namespace 四则运算
                 case 3:
                     return '/';
             }
-            return (char)0 ;
+            return (char)0;
         }
         //计算
         public static int alg(int* x, int op, int y)
@@ -89,12 +102,12 @@ namespace 四则运算
                 case 2: result = *x * y; break;
                 case 3:
                     m = 100 / y;
-                    *x = (ran.Next(m)+1) * y;
-                    result = *x/y;
+                    *x = (ran.Next(m) + 1) * y;
+                    result = *x / y;
                     break;
             }
             return result;
         }
-       
+
     }
 }
