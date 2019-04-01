@@ -1,0 +1,7 @@
+C:\Users\Administrator\Desktop\Calculator\XiaoGuanL\ceshi\ceshi\bin\Debug\ceshi.exe.config
+C:\Users\Administrator\Desktop\Calculator\XiaoGuanL\ceshi\ceshi\bin\Debug\ceshi.exe
+C:\Users\Administrator\Desktop\Calculator\XiaoGuanL\ceshi\ceshi\bin\Debug\ceshi.pdb
+C:\Users\Administrator\Desktop\Calculator\XiaoGuanL\ceshi\ceshi\obj\Debug\ceshi.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\Calculator\XiaoGuanL\ceshi\ceshi\obj\Debug\ceshi.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Calculator\XiaoGuanL\ceshi\ceshi\obj\Debug\ceshi.exe
+C:\Users\Administrator\Desktop\Calculator\XiaoGuanL\ceshi\ceshi\obj\Debug\ceshi.pdb
